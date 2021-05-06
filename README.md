@@ -2,7 +2,6 @@ Análise de dados com Python/Pandas e vizualizações com Plotly, Matplotlib, ch
 
 Análise das curvas do novo coronavírus
 
-Covid 19 dados da [Johns Hopkins University até 08/08/2020](https://github.com/datasets/covid-19)
 
 ![newpie](https://github.com/Rosangelafl/Covid19-com-Plotly/blob/master/1027.tmp.png)
 
@@ -13,4 +12,8 @@ Covid 19 com dados até 14/06/2020 [Brasil.io](https://brasil.io/dataset/covid19
 Com dados da [Quandl](https://www.quandl.com/), repositório de dados abertos financeiros, econômicos para análises quantitativas, gráfico com a cotação do Bitcoin de 2012 até setembro de 2020. [Versão interativa](https://chart-studio.plotly.com/~Rosangelafl/13.embed) 
 
 ![newplot](https://github.com/Rosangelafl/analises_vizPlotly/blob/master/Bitcoin%20USD%20Prices.jpeg)
+
+Análise da Pnad Covid da [Base dos Dados](https://basedosdados.org/dataset/br-ibge-pnad-covid/resource/4bc8fb57-fdf4-40f2-b2b0-6a19405596fc)
+
+
 
