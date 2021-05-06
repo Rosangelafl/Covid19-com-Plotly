@@ -13,5 +13,7 @@ Com dados da [Quandl](https://www.quandl.com/), repositório de dados abertos fi
 
 Análise da Pnad Covid da [Base dos Dados](https://basedosdados.org/dataset/br-ibge-pnad-covid/resource/4bc8fb57-fdf4-40f2-b2b0-6a19405596fc)
 
+![newplot](https://github.com/Rosangelafl/analises_vizPlotly/blob/master/pnad_covid_tableau.png)
+
 
 
