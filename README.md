@@ -11,9 +11,8 @@ Com dados da [Quandl](https://www.quandl.com/), repositório de dados abertos fi
 
 ![newplot](https://github.com/Rosangelafl/analises_vizPlotly/blob/master/Bitcoin%20USD%20Prices.jpeg)
 
-Análise da Pnad Covid da [Base dos Dados](https://basedosdados.org/dataset/br-ibge-pnad-covid/resource/4bc8fb57-fdf4-40f2-b2b0-6a19405596fc)
+![newplot](https://user-images.githubusercontent.com/20996253/126673184-900a62ae-d95a-4c1e-bec2-c554864f7ea1.jpeg)
 
-![newplot](https://github.com/Rosangelafl/analises_vizPlotly/blob/master/pnad_covid_tableau.png)
 
 
 
